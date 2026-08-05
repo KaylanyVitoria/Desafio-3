@@ -58,5 +58,3 @@ https://kaylanyvitoria.github.io/Desafio-3/
 ## 👩‍💻 Desenvolvido por
 
 **Kaylany Vitória**
-
-Projeto desenvolvido como atividade prática de Front-end.
