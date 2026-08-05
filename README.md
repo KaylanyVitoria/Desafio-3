@@ -53,11 +53,7 @@ git clone https://github.com/SEU-USUARIO/Desafio-3.git
 
 GitHub Pages:
 
-> Adicione aqui o link do seu GitHub Pages.
-
-## 📸 Prévia
-
-Adicione um print da página aqui.
+https://kaylanyvitoria.github.io/Desafio-3/
 
 ## 👩‍💻 Desenvolvido por
 
